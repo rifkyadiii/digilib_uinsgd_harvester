@@ -144,5 +144,3 @@ Untuk mengganti kode `TEMP_ID` menjadi ID Handle DSpace asli (`12345/67`):
 2.  Jalankan script `tools/fix_collections.ts`.
 
 Ini memastikan tidak perlu download ulang PDF hanya karena label ID DSpace berubah.
-
-```
