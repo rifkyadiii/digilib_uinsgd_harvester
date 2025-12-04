@@ -22,7 +22,7 @@ Deno diperlukan untuk menjalankan script utama (**`main.ts`**) karena menyediaka
 | Sistem Operasi | Metode Instalasi | Perintah |
 | :--- | :--- | :--- |
 | **Arch/Manjaro (sudah ada)** | Repository Resmi | `sudo pacman -S deno` |
-| **Debian/Ubuntu** | Shell Script (Direkomendasikan) | `curl -fsSL https://deno.land/install.sh | sh` |
+| **Debian/Ubuntu** | Shell Script (Direkomendasikan) | `curl -fsSL https://deno.land/install.sh \| sh` |
 | **Fedora/RHEL** | Package Manager | `sudo dnf install deno` |
 | **macOS (via Homebrew)** | Package Manager | `brew install deno` |
 | **Windows (via Scoop)** | Package Manager | `scoop install deno` |
@@ -57,7 +57,6 @@ Proyek ini menggunakan dua tahap: Persiapan data (Python) dan Eksekusi download 
 ### Fase 0: Setup Konfigurasi (.env)
 
 Buat file **`.env`** di root folder dan isi dengan cookie dari browser (Pastikan sudah login <a href="https://digilib.uinsgd.ac.id" target="_blank">Digilib UIN SGD</a>)
-):
 
 ```env
 # Ambil dari F12 -> Network -> Cookie, gabungkan eprints_session dan secure_eprints_session
