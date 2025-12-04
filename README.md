@@ -1,4 +1,3 @@
-````markdown
 # UIN SGD ETD HARVESTER CLI (DSpace SAF Builder)
 
 Command Line Interface untuk memanen data Skripsi/Tesis dari Digilib UIN Sunan Gunung Djati Bandung (EPrints) dan menyusunnya dalam format **Simple Archive Format (SAF)** yang siap diunggah massal ke DSpace.
