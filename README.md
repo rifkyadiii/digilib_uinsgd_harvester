@@ -56,7 +56,7 @@ Proyek ini menggunakan dua tahap: Persiapan data (Python) dan Eksekusi download 
 
 ### Fase 0: Setup Konfigurasi (.env)
 
-Buat file **`.env`** di root folder dan isi dengan cookie dari browser (Pastikan sudah login [Digilib UIN SGD](https://digilib.uinsgd.ac.id)
+Buat file **`.env`** di root folder dan isi dengan cookie dari browser (Pastikan sudah login <a href="https://digilib.uinsgd.ac.id" target="_blank">Digilib UIN SGD</a>)
 ):
 
 ```env
