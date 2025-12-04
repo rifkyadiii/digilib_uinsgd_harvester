@@ -1,0 +1,794 @@
+[
+  {
+    "folder": "bahasa_inggris",
+    "name": "Program Studi Bahasa Inggris",
+    "slug": "prodi=5Fbahasa=5Finggris",
+    "fakultas": "Fakultas Adab dan Humaniora",
+    "induk": "",
+    "id": 1,
+    "dspace_code": "TEMP_1"
+  },
+  {
+    "folder": "bahasa_dan_sastra_arab",
+    "name": "Program Studi Bahasa dan Sastra Arab",
+    "slug": "prodi=5Fsastra=5Farab",
+    "fakultas": "Fakultas Adab dan Humaniora",
+    "induk": "",
+    "id": 2,
+    "dspace_code": "TEMP_2"
+  },
+  {
+    "folder": "bahasa_dan_sastra_inggris",
+    "name": "Program Studi Bahasa dan Sastra Inggris",
+    "slug": "prodi=5FbahasadansastraInggris",
+    "fakultas": "Fakultas Adab dan Humaniora",
+    "induk": "",
+    "id": 3,
+    "dspace_code": "TEMP_3"
+  },
+  {
+    "folder": "sastra_inggris",
+    "name": "Program Studi Sastra Inggris",
+    "slug": "prodi=5Fsastra=5Finggris",
+    "fakultas": "Fakultas Adab dan Humaniora",
+    "induk": "",
+    "id": 4,
+    "dspace_code": "TEMP_4"
+  },
+  {
+    "folder": "sejarah_dan_peradaban_islam",
+    "name": "Program Studi Sejarah dan Peradaban Islam",
+    "slug": "prodi=5Fsejarah=5Fislam",
+    "fakultas": "Fakultas Adab dan Humaniora",
+    "induk": "",
+    "id": 5,
+    "dspace_code": "TEMP_5"
+  },
+  {
+    "folder": "bimbingan_konseling_islam",
+    "name": "Program Studi Bimbingan Konseling Islam",
+    "slug": "prodi=5Fbimbingan=5Fkonseling",
+    "fakultas": "Fakultas Dakwah dan Komunikasi",
+    "induk": "",
+    "id": 6,
+    "dspace_code": "TEMP_6"
+  },
+  {
+    "folder": "hubungan_masyarakat",
+    "name": "Program Studi Hubungan Masyarakat",
+    "slug": "prodi=5Fhubungan=5Fmasyarakat",
+    "fakultas": "Fakultas Dakwah dan Komunikasi",
+    "induk": "",
+    "id": 7,
+    "dspace_code": "TEMP_7"
+  },
+  {
+    "folder": "jurnalistik",
+    "name": "Program Studi Jurnalistik",
+    "slug": "prodi=5Fjurnalistik",
+    "fakultas": "Fakultas Dakwah dan Komunikasi",
+    "induk": "",
+    "id": 8,
+    "dspace_code": "TEMP_8"
+  },
+  {
+    "folder": "komunikasi_dan_penyiaran_islam",
+    "name": "Program Studi Komunikasi dan Penyiaran Islam",
+    "slug": "prodi=5Fkomunikasi=5Fpenyiaran",
+    "fakultas": "Fakultas Dakwah dan Komunikasi",
+    "induk": "",
+    "id": 9,
+    "dspace_code": "TEMP_9"
+  },
+  {
+    "folder": "manajemen_dakwah",
+    "name": "Program Studi Manajemen Dakwah",
+    "slug": "prodi=5Fmanajemen=5Fdakwah",
+    "fakultas": "Fakultas Dakwah dan Komunikasi",
+    "induk": "",
+    "id": 10,
+    "dspace_code": "TEMP_10"
+  },
+  {
+    "folder": "manajemen_haji_dan_umrah",
+    "name": "Program Studi Manajemen Haji dan Umrah",
+    "slug": "prodi=5Fhaji=5Fumrah",
+    "fakultas": "Fakultas Dakwah dan Komunikasi",
+    "induk": "",
+    "id": 11,
+    "dspace_code": "TEMP_11"
+  },
+  {
+    "folder": "pengembangan_masyarakat_islam",
+    "name": "Program Studi Pengembangan Masyarakat Islam",
+    "slug": "prodi=5Fpengembangan=5Fmasyarakat",
+    "fakultas": "Fakultas Dakwah dan Komunikasi",
+    "induk": "",
+    "id": 12,
+    "dspace_code": "TEMP_12"
+  },
+  {
+    "folder": "akuntansi_syariah",
+    "name": "Program Studi Akuntansi Syariah",
+    "slug": "prodi=5Fakuntansi=5Fsyariah",
+    "fakultas": "Fakultas Ekonomi dan Bisnis Islam",
+    "induk": "",
+    "id": 13,
+    "dspace_code": "TEMP_13"
+  },
+  {
+    "folder": "ekonomi_syariah",
+    "name": "Program Studi Ekonomi Syariah",
+    "slug": "prodi=5Fekonomi=5Fsyariah",
+    "fakultas": "Fakultas Ekonomi dan Bisnis Islam",
+    "induk": "",
+    "id": 14,
+    "dspace_code": "TEMP_14"
+  },
+  {
+    "folder": "manajemen_keuangan_syariah",
+    "name": "Program Studi Manajemen Keuangan Syariah",
+    "slug": "prodi=5Fmanajemen=5Fkeuangan=5Fsyariah",
+    "fakultas": "Fakultas Ekonomi dan Bisnis Islam",
+    "induk": "",
+    "id": 15,
+    "dspace_code": "TEMP_15"
+  },
+  {
+    "folder": "manajemen",
+    "name": "Program Studi Manajemen",
+    "slug": "prodi=5Fmanajemen",
+    "fakultas": "Fakultas Ekonomi dan Bisnis Islam",
+    "induk": "",
+    "id": 16,
+    "dspace_code": "TEMP_16"
+  },
+  {
+    "folder": "administrasi_publik",
+    "name": "Program Studi Administrasi Publik",
+    "slug": "prodi=5Fadm=5Fnegara",
+    "fakultas": "Fakultas Ilmu Sosial dan Ilmu Politik",
+    "induk": "",
+    "id": 17,
+    "dspace_code": "TEMP_17"
+  },
+  {
+    "folder": "ilmu_politik",
+    "name": "Program Studi Ilmu Politik",
+    "slug": "prodi=5Filmu=5Fpolitik",
+    "fakultas": "Fakultas Ilmu Sosial dan Ilmu Politik",
+    "induk": "",
+    "id": 18,
+    "dspace_code": "TEMP_18"
+  },
+  {
+    "folder": "sosiologi",
+    "name": "Program Studi Sosiologi",
+    "slug": "prodi=5Fsosiologi",
+    "fakultas": "Fakultas Ilmu Sosial dan Ilmu Politik",
+    "induk": "",
+    "id": 19,
+    "dspace_code": "TEMP_19"
+  },
+  {
+    "folder": "psikologi",
+    "name": "Program Studi Psikologi",
+    "slug": "prodi=5Fpsikologi",
+    "fakultas": "Fakultas Psikologi",
+    "induk": "",
+    "id": 20,
+    "dspace_code": "TEMP_20"
+  },
+  {
+    "folder": "biologi",
+    "name": "Program Studi Biologi",
+    "slug": "prodi=5Fbiologi",
+    "fakultas": "Fakultas Sains dan Teknologi",
+    "induk": "",
+    "id": 21,
+    "dspace_code": "TEMP_21"
+  },
+  {
+    "folder": "fisika",
+    "name": "Program Studi Fisika",
+    "slug": "prodi=5Ffisika",
+    "fakultas": "Fakultas Sains dan Teknologi",
+    "induk": "",
+    "id": 22,
+    "dspace_code": "TEMP_22"
+  },
+  {
+    "folder": "kimia",
+    "name": "Program Studi Kimia",
+    "slug": "prodi=5Fkimia",
+    "fakultas": "Fakultas Sains dan Teknologi",
+    "induk": "",
+    "id": 23,
+    "dspace_code": "TEMP_23"
+  },
+  {
+    "folder": "matematika",
+    "name": "Program Studi Matematika",
+    "slug": "prodi=5Fmatematika",
+    "fakultas": "Fakultas Sains dan Teknologi",
+    "induk": "",
+    "id": 24,
+    "dspace_code": "TEMP_24"
+  },
+  {
+    "folder": "pertanianagroteknologi",
+    "name": "Program Studi Pertanian/Agroteknologi",
+    "slug": "prodi=5Fpertanian",
+    "fakultas": "Fakultas Sains dan Teknologi",
+    "induk": "",
+    "id": 25,
+    "dspace_code": "TEMP_25"
+  },
+  {
+    "folder": "teknik_elektro",
+    "name": "Program Studi Teknik Elektro",
+    "slug": "prodi=5Felektro",
+    "fakultas": "Fakultas Sains dan Teknologi",
+    "induk": "",
+    "id": 26,
+    "dspace_code": "TEMP_26"
+  },
+  {
+    "folder": "teknik_informatika",
+    "name": "Program Studi Teknik Informatika",
+    "slug": "prodi=5Finformatika",
+    "fakultas": "Fakultas Sains dan Teknologi",
+    "induk": "",
+    "id": 27,
+    "dspace_code": "TEMP_27"
+  },
+  {
+    "folder": "alahwal_alsyakhshiyah",
+    "name": "Program Studi Al-Ahwal Al-Syakhshiyah",
+    "slug": "prodi=5Falahwal=5Falsaksiyah",
+    "fakultas": "Fakultas Syariah dan Hukum",
+    "induk": "",
+    "id": 28,
+    "dspace_code": "TEMP_28"
+  },
+  {
+    "folder": "hukum_bisnis_syariah_dan_perbankan_syariah",
+    "name": "Program Studi Hukum Bisnis Syariah dan Perbankan Syariah",
+    "slug": "prodi=5Fhukum=5Fbisnis",
+    "fakultas": "Fakultas Syariah dan Hukum",
+    "induk": "",
+    "id": 29,
+    "dspace_code": "TEMP_29"
+  },
+  {
+    "folder": "hukum_ketatanegaraan_dan_politik_islam_siyasah",
+    "name": "Program Studi Hukum Ketatanegaraan dan Politik Islam (Siyasah)",
+    "slug": "prodi=5Fhukum=5Fketatanegaraan",
+    "fakultas": "Fakultas Syariah dan Hukum",
+    "induk": "",
+    "id": 30,
+    "dspace_code": "TEMP_30"
+  },
+  {
+    "folder": "hukum_pidana_islam",
+    "name": "Program Studi Hukum Pidana Islam",
+    "slug": "prodi=5Fhukum=5Fpidana=5Fislam",
+    "fakultas": "Fakultas Syariah dan Hukum",
+    "induk": "",
+    "id": 31,
+    "dspace_code": "TEMP_31"
+  },
+  {
+    "folder": "ilmu_hukum",
+    "name": "Program Studi Ilmu Hukum",
+    "slug": "prodi=5Filmu=5Fhukum",
+    "fakultas": "Fakultas Syariah dan Hukum",
+    "induk": "",
+    "id": 32,
+    "dspace_code": "TEMP_32"
+  },
+  {
+    "folder": "manajeman_keuangan_syariah",
+    "name": "Program Studi Manajeman Keuangan Syariah",
+    "slug": "prodi=5Fmanajeman=5Fkeuangan",
+    "fakultas": "Fakultas Syariah dan Hukum",
+    "induk": "",
+    "id": 33,
+    "dspace_code": "TEMP_33"
+  },
+  {
+    "folder": "muamalah",
+    "name": "Program Studi Muamalah",
+    "slug": "prodi=5Fmuamalah",
+    "fakultas": "Fakultas Syariah dan Hukum",
+    "induk": "",
+    "id": 34,
+    "dspace_code": "TEMP_34"
+  },
+  {
+    "folder": "peradilan_agama_dan_hukum_keluarga_islam",
+    "name": "Program Studi Peradilan Agama dan Hukum Keluarga Islam",
+    "slug": "prodi=5Fperadilan=5Fagama",
+    "fakultas": "Fakultas Syariah dan Hukum",
+    "induk": "",
+    "id": 35,
+    "dspace_code": "TEMP_35"
+  },
+  {
+    "folder": "perbandingan_madzhab_dan_hukum",
+    "name": "Program Studi Perbandingan Madzhab dan Hukum",
+    "slug": "prodi=5Fperbandingan=5Fmadzhab",
+    "fakultas": "Fakultas Syariah dan Hukum",
+    "induk": "",
+    "id": 36,
+    "dspace_code": "TEMP_36"
+  },
+  {
+    "folder": "siyasah",
+    "name": "Program Studi Siyasah",
+    "slug": "prodi=5Fsiyasah",
+    "fakultas": "Fakultas Syariah dan Hukum",
+    "induk": "",
+    "id": 37,
+    "dspace_code": "TEMP_37"
+  },
+  {
+    "folder": "kependidikan_islam",
+    "name": "Program Studi Kependidikan Islam",
+    "slug": "prodi=5Fkependidikan=5Fislam",
+    "fakultas": "Fakultas Tarbiyah dan Keguruan",
+    "induk": "",
+    "id": 38,
+    "dspace_code": "TEMP_38"
+  },
+  {
+    "folder": "manajemen_pendidikan_islam",
+    "name": "Program Studi Manajemen Pendidikan Islam",
+    "slug": "prodi=5Fmanajemen=5Fpend=5Fislam",
+    "fakultas": "Fakultas Tarbiyah dan Keguruan",
+    "induk": "",
+    "id": 39,
+    "dspace_code": "TEMP_39"
+  },
+  {
+    "folder": "pendidikan_agama_islam",
+    "name": "Program Studi Pendidikan Agama Islam",
+    "slug": "prodi=5Fpend=5Fagama=5Fislam",
+    "fakultas": "Fakultas Tarbiyah dan Keguruan",
+    "induk": "",
+    "id": 40,
+    "dspace_code": "TEMP_40"
+  },
+  {
+    "folder": "pendidikan_bahasa_arab",
+    "name": "Program Studi Pendidikan Bahasa Arab",
+    "slug": "prodi=5Fpend=5Fbhs=5Farab",
+    "fakultas": "Fakultas Tarbiyah dan Keguruan",
+    "induk": "",
+    "id": 41,
+    "dspace_code": "TEMP_41"
+  },
+  {
+    "folder": "pendidikan_bahasa_inggris",
+    "name": "Program Studi Pendidikan Bahasa Inggris",
+    "slug": "prodi=5Fpend=5Fbhs=5Finggris",
+    "fakultas": "Fakultas Tarbiyah dan Keguruan",
+    "induk": "",
+    "id": 42,
+    "dspace_code": "TEMP_42"
+  },
+  {
+    "folder": "pendidikan_biologi",
+    "name": "Program Studi Pendidikan Biologi",
+    "slug": "prodi=5Fpend=5Fbiologi",
+    "fakultas": "Fakultas Tarbiyah dan Keguruan",
+    "induk": "",
+    "id": 43,
+    "dspace_code": "TEMP_43"
+  },
+  {
+    "folder": "pendidikan_fisika",
+    "name": "Program Studi Pendidikan Fisika",
+    "slug": "prodi=5Fpend=5Ffisika",
+    "fakultas": "Fakultas Tarbiyah dan Keguruan",
+    "induk": "",
+    "id": 44,
+    "dspace_code": "TEMP_44"
+  },
+  {
+    "folder": "pendidikan_guru_madrasah_ibtidaiyah",
+    "name": "Program Studi Pendidikan Guru Madrasah Ibtidaiyah",
+    "slug": "prodi=5Fpgmi",
+    "fakultas": "Fakultas Tarbiyah dan Keguruan",
+    "induk": "",
+    "id": 45,
+    "dspace_code": "TEMP_45"
+  },
+  {
+    "folder": "pendidikan_islam_anak_usia_dini_piaud",
+    "name": "Program Studi Pendidikan Islam Anak Usia Dini (PIAUD)",
+    "slug": "prodi=5Fpgra",
+    "fakultas": "Fakultas Tarbiyah dan Keguruan",
+    "induk": "",
+    "id": 46,
+    "dspace_code": "TEMP_46"
+  },
+  {
+    "folder": "pendidikan_kimia",
+    "name": "Program Studi Pendidikan Kimia",
+    "slug": "prodi=5Fpend=5Fkimia",
+    "fakultas": "Fakultas Tarbiyah dan Keguruan",
+    "induk": "",
+    "id": 47,
+    "dspace_code": "TEMP_47"
+  },
+  {
+    "folder": "pendidikan_matematika",
+    "name": "Program Studi Pendidikan Matematika",
+    "slug": "prodi=5Fpend=5Fmatematika",
+    "fakultas": "Fakultas Tarbiyah dan Keguruan",
+    "induk": "",
+    "id": 48,
+    "dspace_code": "TEMP_48"
+  },
+  {
+    "folder": "tadris_bahasa_indonesia",
+    "name": "Program Studi Tadris Bahasa Indonesia",
+    "slug": "prodi=5Ftadris=5Fbahasa=5Findonesia",
+    "fakultas": "Fakultas Tarbiyah dan Keguruan",
+    "induk": "",
+    "id": 49,
+    "dspace_code": "TEMP_49"
+  },
+  {
+    "folder": "aqidah_filsafat",
+    "name": "Program Studi Aqidah Filsafat",
+    "slug": "prodi=5Fakidah=5Ffilsafat",
+    "fakultas": "Fakultas Ushuluddin",
+    "induk": "",
+    "id": 50,
+    "dspace_code": "TEMP_50"
+  },
+  {
+    "folder": "filsafat_agama",
+    "name": "Program Studi Filsafat Agama",
+    "slug": "prodi=5Ffilsafat=5Fagama",
+    "fakultas": "Fakultas Ushuluddin",
+    "induk": "",
+    "id": 51,
+    "dspace_code": "TEMP_51"
+  },
+  {
+    "folder": "ilmu_alquran_dan_tafsir",
+    "name": "Program Studi Ilmu Al-Qur'an dan Tafsir",
+    "slug": "prodi=5Falquran=5Ftafsir",
+    "fakultas": "Fakultas Ushuluddin",
+    "induk": "",
+    "id": 52,
+    "dspace_code": "TEMP_52"
+  },
+  {
+    "folder": "ilmu_hadits",
+    "name": "Program Studi Ilmu Hadits",
+    "slug": "prodi=5Fhadits",
+    "fakultas": "Fakultas Ushuluddin",
+    "induk": "",
+    "id": 53,
+    "dspace_code": "TEMP_53"
+  },
+  {
+    "folder": "sosiologi_agama",
+    "name": "Program Studi Sosiologi Agama",
+    "slug": "prodi=5Fsosiologi=5Fagama",
+    "fakultas": "Fakultas Ushuluddin",
+    "induk": "",
+    "id": 54,
+    "dspace_code": "TEMP_54"
+  },
+  {
+    "folder": "tafsir_hadits",
+    "name": "Program Studi Tafsir Hadits",
+    "slug": "prodi=5Ftafsir=5Fhadits",
+    "fakultas": "Fakultas Ushuluddin",
+    "induk": "",
+    "id": 55,
+    "dspace_code": "TEMP_55"
+  },
+  {
+    "folder": "tasawuf_dan_psikoterapi",
+    "name": "Program Studi Tasawuf dan Psikoterapi",
+    "slug": "prodi=5Ftasawuf=5Fpsikoterapi",
+    "fakultas": "Fakultas Ushuluddin",
+    "induk": "",
+    "id": 56,
+    "dspace_code": "TEMP_56"
+  },
+  {
+    "folder": "studi_agama_agama",
+    "name": "Program Studi, Studi Agama Agama",
+    "slug": "prodi=5Fperbandingan=5Fagama",
+    "fakultas": "Fakultas Ushuluddin",
+    "induk": "",
+    "id": 57,
+    "dspace_code": "TEMP_57"
+  },
+  {
+    "folder": "hukum_islam",
+    "name": "Program Studi Hukum Islam",
+    "slug": "prodi=5Fhukum=5Fislam",
+    "fakultas": "Pascasarjana Program Doktor",
+    "induk": "",
+    "id": 58,
+    "dspace_code": "TEMP_58"
+  },
+  {
+    "folder": "konsentrasi_ekonomi_syariah",
+    "name": "Konsentrasi Ekonomi Syari'ah",
+    "slug": "konsentrasi=5Fekonomi=5Fsyariah",
+    "fakultas": "Pascasarjana Program Doktor",
+    "induk": "Program Studi Hukum Islam",
+    "id": 59,
+    "dspace_code": "TEMP_59"
+  },
+  {
+    "folder": "konsentrasi_hukum_ekonomi_syariah",
+    "name": "Konsentrasi Hukum Ekonomi Syari'ah",
+    "slug": "konsentrasi=5Fhukum=5Fekonomi=5Fsyariah",
+    "fakultas": "Pascasarjana Program Doktor",
+    "induk": "Program Studi Hukum Islam",
+    "id": 60,
+    "dspace_code": "TEMP_60"
+  },
+  {
+    "folder": "konsentrasi_hukum_keluarga",
+    "name": "Konsentrasi Hukum Keluarga",
+    "slug": "konsentrasi=5Fhukum=5Fkeluarga",
+    "fakultas": "Pascasarjana Program Doktor",
+    "induk": "Program Studi Hukum Islam",
+    "id": 61,
+    "dspace_code": "TEMP_61"
+  },
+  {
+    "folder": "pendidikan_islam",
+    "name": "Program Studi Pendidikan Islam",
+    "slug": "prodi=5Fpendidikan=5Fislam",
+    "fakultas": "Pascasarjana Program Doktor",
+    "induk": "",
+    "id": 62,
+    "dspace_code": "TEMP_62"
+  },
+  {
+    "folder": "konsentrasi_ilmu_pendidikan_islam",
+    "name": "Konsentrasi Ilmu Pendidikan Islam",
+    "slug": "konsentrasi=5Filmu=5Fpendidikan=5Fislam",
+    "fakultas": "Pascasarjana Program Doktor",
+    "induk": "Program Studi Pendidikan Islam",
+    "id": 63,
+    "dspace_code": "TEMP_63"
+  },
+  {
+    "folder": "konsentrasi_manajemen_pendidikan_islam",
+    "name": "Konsentrasi Manajemen Pendidikan Islam",
+    "slug": "konsentrasi=5Fmanajemen=5Fpendidikan=5Fislam",
+    "fakultas": "Pascasarjana Program Doktor",
+    "induk": "Program Studi Pendidikan Islam",
+    "id": 64,
+    "dspace_code": "TEMP_64"
+  },
+  {
+    "folder": "konsentrasi_pendidikan_bahasa_arab",
+    "name": "Konsentrasi Pendidikan Bahasa Arab",
+    "slug": "prodi=5Fpba",
+    "fakultas": "Pascasarjana Program Doktor",
+    "induk": "Program Studi Pendidikan Islam",
+    "id": 65,
+    "dspace_code": "TEMP_65"
+  },
+  {
+    "folder": "studi_agama_agama",
+    "name": "Program Studi, Studi Agama Agama",
+    "slug": "prodi=5Fperb=5Fagama",
+    "fakultas": "Pascasarjana Program Doktor",
+    "induk": "",
+    "id": 66,
+    "dspace_code": "TEMP_66"
+  },
+  {
+    "folder": "konsentrasi_agama_dan_budaya",
+    "name": "Konsentrasi Agama dan Budaya",
+    "slug": "konsentrasi=5Fagama=5Fdan=5Fbudaya",
+    "fakultas": "Pascasarjana Program Doktor",
+    "induk": "Program Studi, Studi Agama Agama",
+    "id": 67,
+    "dspace_code": "TEMP_67"
+  },
+  {
+    "folder": "konsentrasi_agama_dan_media",
+    "name": "Konsentrasi Agama dan Media",
+    "slug": "konsentrasi=5Fagama=5Fdan=5Fmedia",
+    "fakultas": "Pascasarjana Program Doktor",
+    "induk": "Program Studi, Studi Agama Agama",
+    "id": 68,
+    "dspace_code": "TEMP_68"
+  },
+  {
+    "folder": "konsentrasi_agama_dan_politik",
+    "name": "Konsentrasi Agama dan Politik",
+    "slug": "konsentrasi=5Fagama=5Fdan=5Fpolitik",
+    "fakultas": "Pascasarjana Program Doktor",
+    "induk": "Program Studi, Studi Agama Agama",
+    "id": 69,
+    "dspace_code": "TEMP_69"
+  },
+  {
+    "folder": "konsentrasi_filsafat_agama",
+    "name": "Konsentrasi Filsafat Agama",
+    "slug": "prodi=5Ffilsafat",
+    "fakultas": "Pascasarjana Program Doktor",
+    "induk": "Program Studi, Studi Agama Agama",
+    "id": 70,
+    "dspace_code": "TEMP_70"
+  },
+  {
+    "folder": "konsentrasi_ilmu_alquran_dan_tafsir",
+    "name": "Konsentrasi Ilmu Al-Qur'an dan Tafsir",
+    "slug": "konsentrasi=5Falquran=5Fdan=5Ftafsir",
+    "fakultas": "Pascasarjana Program Doktor",
+    "induk": "Program Studi, Studi Agama Agama",
+    "id": 71,
+    "dspace_code": "TEMP_71"
+  },
+  {
+    "folder": "konsentrasi_religious_studies",
+    "name": "Konsentrasi Religious Studies",
+    "slug": "konsentrasi=5Freligious=5Fstudies",
+    "fakultas": "Pascasarjana Program Doktor",
+    "induk": "Program Studi, Studi Agama Agama",
+    "id": 72,
+    "dspace_code": "TEMP_72"
+  },
+  {
+    "folder": "hukum_keluarga",
+    "name": "Program Studi Hukum Keluarga",
+    "slug": "prodi=5Fahwal=5Fal-syakhshiyah",
+    "fakultas": "Pascasarjana Program Magister",
+    "induk": "",
+    "id": 73,
+    "dspace_code": "TEMP_73"
+  },
+  {
+    "folder": "bimbingan_konseling_islam",
+    "name": "Program Studi Bimbingan Konseling Islam",
+    "slug": "Pascasarjana=5Fprodi=5FBKI",
+    "fakultas": "Pascasarjana Program Magister",
+    "induk": "",
+    "id": 74,
+    "dspace_code": "TEMP_74"
+  },
+  {
+    "folder": "ekonomi_islam",
+    "name": "Program Studi Ekonomi Islam",
+    "slug": "prodi=5Fekonomi=5Fsyari=27ah",
+    "fakultas": "Pascasarjana Program Magister",
+    "induk": "",
+    "id": 75,
+    "dspace_code": "TEMP_75"
+  },
+  {
+    "folder": "hukum_ekonomi_syariah",
+    "name": "Program Studi Hukum Ekonomi Syari'ah",
+    "slug": "prodi=5Fhukum=5Fekonomi=5Fsyari=27ah",
+    "fakultas": "Pascasarjana Program Magister",
+    "induk": "",
+    "id": 76,
+    "dspace_code": "TEMP_76"
+  },
+  {
+    "folder": "hukum_islam_dan_pranata_sosial",
+    "name": "Program Studi Hukum Islam dan Pranata Sosial",
+    "slug": "prodi=5Fhukum=5FIslam=5Fdan=5Fpranata=5Fsosial",
+    "fakultas": "Pascasarjana Program Magister",
+    "induk": "",
+    "id": 77,
+    "dspace_code": "TEMP_77"
+  },
+  {
+    "folder": "ilmu_alquran_dan_tafsir",
+    "name": "Program Studi Ilmu Al-Quran dan Tafsir",
+    "slug": "prodi=5Filmu=5Fal-quran=5Fdan=5Ftafsir",
+    "fakultas": "Pascasarjana Program Magister",
+    "induk": "",
+    "id": 78,
+    "dspace_code": "TEMP_78"
+  },
+  {
+    "folder": "ilmu_hadits",
+    "name": "Program Studi Ilmu Hadits",
+    "slug": "prodi=5Filmu=5Fhadits",
+    "fakultas": "Pascasarjana Program Magister",
+    "induk": "",
+    "id": 79,
+    "dspace_code": "TEMP_79"
+  },
+  {
+    "folder": "ilmu_hukum",
+    "name": "Program Studi Ilmu Hukum",
+    "slug": "prodi=5Fih",
+    "fakultas": "Pascasarjana Program Magister",
+    "induk": "",
+    "id": 80,
+    "dspace_code": "TEMP_80"
+  },
+  {
+    "folder": "komunikasi_dan_penyiaran_islam",
+    "name": "Program Studi Komunikasi dan Penyiaran Islam",
+    "slug": "prodi=5Fkomunikasi=5Fpenyiaran=5Fislam",
+    "fakultas": "Pascasarjana Program Magister",
+    "induk": "",
+    "id": 81,
+    "dspace_code": "TEMP_81"
+  },
+  {
+    "folder": "manajemen_pendidikan_islam",
+    "name": "Program Studi Manajemen Pendidikan Islam",
+    "slug": "prodi=5Fmpi",
+    "fakultas": "Pascasarjana Program Magister",
+    "induk": "",
+    "id": 82,
+    "dspace_code": "TEMP_82"
+  },
+  {
+    "folder": "pendidikan_agama_islam",
+    "name": "Program Studi Pendidikan Agama Islam",
+    "slug": "prodi=5Fpai",
+    "fakultas": "Pascasarjana Program Magister",
+    "induk": "",
+    "id": 83,
+    "dspace_code": "TEMP_83"
+  },
+  {
+    "folder": "pendidikan_bahasa_arab",
+    "name": "Program Studi Pendidikan Bahasa Arab",
+    "slug": "prodi=5Fpendidikan=5Fbahasa=5Farab",
+    "fakultas": "Pascasarjana Program Magister",
+    "induk": "",
+    "id": 84,
+    "dspace_code": "TEMP_84"
+  },
+  {
+    "folder": "sejarah_peradaban_islam",
+    "name": "Program Studi Sejarah Peradaban Islam",
+    "slug": "prodi=5Fsejarah=5Fkebudayaan=5Fislam",
+    "fakultas": "Pascasarjana Program Magister",
+    "induk": "",
+    "id": 85,
+    "dspace_code": "TEMP_85"
+  },
+  {
+    "folder": "studi_agama_agama",
+    "name": "Program Studi Studi Agama Agama",
+    "slug": "prodi=5Freligious=5Fstudies",
+    "fakultas": "Pascasarjana Program Magister",
+    "induk": "",
+    "id": 86,
+    "dspace_code": "TEMP_86"
+  },
+  {
+    "folder": "tadris_bahasa_inggris",
+    "name": "Program Studi Tadris Bahasa Inggris",
+    "slug": "Pascasarjana=5Fprodi=5Ftadris=5Fbing",
+    "fakultas": "Pascasarjana Program Magister",
+    "induk": "",
+    "id": 87,
+    "dspace_code": "TEMP_87"
+  },
+  {
+    "folder": "tadris_ilmu_pengetahuan_alam",
+    "name": "Program Studi Tadris Ilmu Pengetahuan Alam",
+    "slug": "Pascasarjana=5Fprodi=5Ftadris=5FMIPA",
+    "fakultas": "Pascasarjana Program Magister",
+    "induk": "",
+    "id": 88,
+    "dspace_code": "TEMP_88"
+  }
+]
