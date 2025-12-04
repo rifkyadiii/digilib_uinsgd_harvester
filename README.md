@@ -1,6 +1,6 @@
 # DIGILIB UIN SGD HARVESTER
 
-Command Line Interface untuk memanen data Skripsi/Tesis dari Digilib UIN Sunan Gunung Djati Bandung (EPrints) dan menyusunnya dalam format **Simple Archive Format (SAF)** yang siap diunggah massal ke DSpace.
+Command Line Interface untuk memanen data Skripsi/Tesis dari Digilib UIN Sunan Gunung Djati Bandung (EPrints) dan menyusunnya dalam format **Simple Archive Format (SAF)** untuk diunggah ke DSpace.
 
 ---
 
@@ -27,9 +27,7 @@ Deno diperlukan untuk menjalankan script utama (**`main.ts`**) karena menyediaka
 | **macOS (via Homebrew)** | Package Manager | `brew install deno` |
 | **Windows (via Scoop)** | Package Manager | `scoop install deno` |
 
-> *Catatan:* Jika Anda menggunakan metode **Shell Script** (`curl`), Anda mungkin perlu menambahkan folder instalasi Deno ke dalam variabel lingkungan `$PATH` Anda.
-
------
+> *Catatan:* Jika  menggunakan metode **Shell Script** (`curl`), Anda mungkin perlu menambahkan folder instalasi Deno ke dalam variabel lingkungan `$PATH` Anda.
 
 2\. Python & Library Scraping
 
@@ -48,9 +46,8 @@ pip install requests beautifulsoup4
 
 > *Penting:* Selalu disarankan untuk menggunakan *virtual environment* (seperti `venv` atau `conda`) untuk proyek Python agar dependensi proyek tidak mengganggu sistem global Anda.
 
------
+Setelah semua terinstal, mulai alur kerja sistem seperti berikut: `python slug_scraper.py` -\> `deno run main.ts`.
 
-Setelah semua terinstal, Anda dapat memulai alur kerja sistem: `python slug_scraper.py` -\> `deno run main.ts`.
 ---
 
 ## 🚀 Alur Kerja (Setup Awal)
@@ -59,7 +56,8 @@ Proyek ini menggunakan dua tahap: Persiapan data (Python) dan Eksekusi download 
 
 ### Fase 0: Setup Konfigurasi (.env)
 
-Buat file **`.env`** di root folder dan isi dengan cookie dari browser Anda (Pastikan Anda sudah login di UIN SGD):
+Buat file **`.env`** di root folder dan isi dengan cookie dari browser (Pastikan sudah login [Digilib UIN SGD](https://digilib.uinsgd.ac.id)
+):
 
 ```env
 # Ambil dari F12 -> Network -> Cookie, gabungkan eprints_session dan secure_eprints_session
@@ -87,7 +85,7 @@ python slug_scraper.py
 
 ## 💻 Penggunaan Program Utama (`main.ts`)
 
-Setelah `targets.json` tersedia, Anda dapat menjalankan Harvester utama.
+Setelah `targets.json` tersedia, jalankan Harvester utama.
 
 **Jalankan Perintah Utama:**
 
@@ -102,11 +100,11 @@ deno run --allow-net --allow-read --allow-write --allow-env main.ts
 
 ### 🔒 Fitur Anti-Timeout (Hot-Swap Cookie)
 
-Sistem ini dirancang untuk tidak mati total jika cookie-mu habis (error 403):
+Sistem ini dirancang untuk tidak mati total jika cookie habis (error 403):
 
 1.  Jika salah satu Worker gagal autentikasi, **semua proses akan PAUSE**.
-2.  Terminal akan menampilkan pesan **"🔥 COOKIE KADALUARSA\! Script dipause otomatis."**.
-3.  **Tugas Anda:** Ambil cookie baru dari browser, timpa (replace) baris `EPRINTS_COOKIE` di file **`.env`**, lalu **SAVE**.
+2.  Terminal akan menampilkan pesan **"AKSES DITOLAK - COOKIE BERMASALAH!"**.
+3.  **Langkah Penyelesaian:** Ambil cookie baru dari browser, replace baris `EPRINTS_COOKIE` di file **`.env`**, lalu **SAVE**.
 4.  Script akan mendeteksi perubahan file dan **RESUME** download secara otomatis.
 
 -----
